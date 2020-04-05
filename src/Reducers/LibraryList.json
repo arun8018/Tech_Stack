@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "title": "React",
+        "description": "React makes it painless to create interactive UIs makes it painless to create interactive UIs makes it painless to create interactive UIs makes it painless to create interactive UIs makes it painless to create interactive UIs makes it painless to create interactive UIs."
+    },
+    {
+        "id": 1,
+        "title": "Redux",
+        "description": "Redux is predictable state container for JavaScript."
+    }
+]
